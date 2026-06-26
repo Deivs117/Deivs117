@@ -6,11 +6,10 @@
 
 I am passionate about the convergence of dynamic hardware and artificial intelligence. I specialize in the development of advanced robotic platforms, deploying Machine Learning models on resource-constrained hardware (Edge AI), and building IoT infrastructure for industrial monitoring.
 
-## Focus Areas & Expertise
-
-*   **Robotics:** Design and simulation of autonomous platforms, bio-inspired locomotion, and quadruped systems using **ROS2 and Gazebo**.
-*   **Edge AI & Computer Vision:** Optimization and deployment of convolutional neural networks (**CNN, YOLO, ResNet**) on restricted hardware such as microcontrollers and embedded cameras.
-*   **Industrial IoT & Cloud:** Architecture of telemetry pipelines for CNC machinery monitoring, integrated with cloud services (**Azure IoT Hub, MQTT, InfluxDB**).
+## Focus Areas 
+*   **Robotics:** Design and simulation of autonomous platforms, bio-inspired locomotion, and quadruped systems.
+*   **Edge AI & Computer Vision:** Optimization and deployment of convolutional neural networks on restricted hardware such as microcontrollers and embedded cameras.
+*   **Industrial IoT & Cloud:** Architecture of telemetry pipelines for CNC machinery monitoring, integrated with cloud services.
 *   **Hardware Design:** Development and fabrication of complex PCBs for biological signal conditioning and power control systems.
 
 ## Connect with Me
@@ -25,8 +24,8 @@ I am passionate about the convergence of dynamic hardware and artificial intelli
 | :--- | :--- |
 | **Languages** | C, C++, Python, MATLAB, SQL |
 | **Robotics & Simulation** | ROS2, Gazebo, Motion Control, Kinematics |
-| **AI & Computer Vision** | OpenCV, Edge Impulse, PyTorch / TensorFlow (Basic/Intermediate), YOLO |
-| **Embedded Systems** | ESP32-CAM, STM32, Arduino, Protocols (I2C, SPI, UART) |
+| **AI & Computer Vision** | OpenCV, Edge Impulse, PyTorch / TensorFlow, YOLO |
+| **Embedded Systems** | ESP32-CAM, ESP-IDF, Arduino, Protocols (I2C, SPI, UART) |
 | **Cloud & IoT** | Microsoft Azure (IoT Hub, Container Instances), MQTT, InfluxDB |
 | **Electronic Design** | KiCad / Altium, Power & Signal PCB Design |
 
