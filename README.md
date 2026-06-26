@@ -4,8 +4,6 @@
 
 I am passionate about the convergence of dynamic hardware and artificial intelligence. I specialize in the development of advanced robotic platforms, deploying Machine Learning models on resource-constrained hardware (Edge AI), and building IoT infrastructure for industrial monitoring.
 
----
-
 ## Focus Areas & Expertise
 
 *   **Robotics:** Design and simulation of autonomous platforms, bio-inspired locomotion, and quadruped systems using **ROS2 and Gazebo**.
@@ -13,7 +11,10 @@ I am passionate about the convergence of dynamic hardware and artificial intelli
 *   **Industrial IoT & Cloud:** Architecture of telemetry pipelines for CNC machinery monitoring, integrated with cloud services (**Azure IoT Hub, MQTT, InfluxDB**).
 *   **Hardware Design:** Development and fabrication of complex PCBs for biological signal conditioning and power control systems.
 
----
+## Connect with Me
+
+*   **LinkedIn:** [linkedin.com/in/david-caicedo-samboni-flux-solutions](https://www.linkedin.com/in/david-caicedo-samboni-flux-solutions)
+*   **Email:** [davidcaicedosamboni@gmail.com](mailto:davidcaicedosamboni@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -30,14 +31,4 @@ I am passionate about the convergence of dynamic hardware and artificial intelli
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deivs117&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivs117&layout=compact&theme=visual_studio_dark" alt="Top Languages" />
-</p>
-
----
-
-## Connect with Me
-
-*   **LinkedIn:** [linkedin.com/in/david-caicedo-samboni-flux-solutions](https://www.linkedin.com/in/david-caicedo-samboni-flux-solutions)
-*   **Email:** [davidcaicedosamboni@gmail.com](mailto:davidcaicedosamboni@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivs117&layout=compact)
