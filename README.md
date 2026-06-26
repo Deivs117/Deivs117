@@ -1,3 +1,5 @@
+<div style="font-family: 'Space Grotesk', 'sans-serif';">
+
 # Hi! I'm Deiv (David Caicedo Samboni) 👋
 
 ### **Mechatronics Engineer | AI Specialist | Robotics & Software Developer**
@@ -32,3 +34,5 @@ I am passionate about the convergence of dynamic hardware and artificial intelli
 ## GitHub Analytics
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivs117&layout=compact)
+
+</div>
