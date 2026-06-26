@@ -15,6 +15,7 @@ I am passionate about the convergence of dynamic hardware and artificial intelli
 
 ## Connect with Me
 
+*   **Portfolio:** [deivs117.github.io/portfolio](https://deivs117.github.io/portfolio/)
 *   **LinkedIn:** [linkedin.com/in/david-caicedo-samboni-flux-solutions](https://www.linkedin.com/in/david-caicedo-samboni-flux-solutions)
 *   **Email:** [davidcaicedosamboni@gmail.com](mailto:davidcaicedosamboni@gmail.com)
 
