@@ -1,6 +1,6 @@
-<div style="font-family: 'Space Grotesk', 'sans-serif';">
+<div style="font-family: 'Azeret Mono', 'monospace';">
 
-# Hi! I'm Deiv (David Caicedo Samboni) 👋
+# Hi! I'm Deiv👋
 
 ### **Mechatronics Engineer | AI Specialist | Robotics & Software Developer**
 
