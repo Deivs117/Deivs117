@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi! I'm Deiv (David Caicedo Samboni) 👋
 
-<!--
-**Deivs117/Deivs117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Mechatronics Engineer | AI Specialist | Robotics & Software Developer**
 
-Here are some ideas to get you started:
+I am passionate about the convergence of dynamic hardware and artificial intelligence. I specialize in the development of advanced robotic platforms, deploying Machine Learning models on resource-constrained hardware (Edge AI), and building IoT infrastructure for industrial monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Focus Areas & Expertise
+
+*   **Robotics:** Design and simulation of autonomous platforms, bio-inspired locomotion, and quadruped systems using **ROS2 and Gazebo**.
+*   **Edge AI & Computer Vision:** Optimization and deployment of convolutional neural networks (**CNN, YOLO, ResNet**) on restricted hardware such as microcontrollers and embedded cameras.
+*   **Industrial IoT & Cloud:** Architecture of telemetry pipelines for CNC machinery monitoring, integrated with cloud services (**Azure IoT Hub, MQTT, InfluxDB**).
+*   **Hardware Design:** Development and fabrication of complex PCBs for biological signal conditioning and power control systems.
+
+---
+
+## 🛠️ Tech Stack
+
+| Category | Technologies, Languages & Tools |
+| :--- | :--- |
+| **Languages** | C, C++, Python, MATLAB, SQL |
+| **Robotics & Simulation** | ROS2, Gazebo, Motion Control, Kinematics |
+| **AI & Computer Vision** | OpenCV, Edge Impulse, PyTorch / TensorFlow (Basic/Intermediate), YOLO |
+| **Embedded Systems** | ESP32-CAM, STM32, Arduino, Protocols (I2C, SPI, UART) |
+| **Cloud & IoT** | Microsoft Azure (IoT Hub, Container Instances), MQTT, InfluxDB |
+| **Electronic Design** | KiCad / Altium, Power & Signal PCB Design |
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deivs117&show_icons=true&theme=visual_studio_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivs117&layout=compact&theme=visual_studio_dark" alt="Top Languages" />
+</p>
+
+---
+
+## Connect with Me
+
+*   **LinkedIn:** [linkedin.com/in/david-caicedo-samboni-flux-solutions](https://www.linkedin.com/in/david-caicedo-samboni-flux-solutions)
+*   **Email:** [davidcaicedosamboni@gmail.com](mailto:davidcaicedosamboni@gmail.com)
