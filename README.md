@@ -30,9 +30,4 @@ I am passionate about the convergence of dynamic hardware and artificial intelli
 | **Electronic Design** | KiCad / Altium, Power & Signal PCB Design |
 
 ---
-
-## GitHub Analytics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivs117&layout=compact)
-
 </div>
